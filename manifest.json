@@ -1,0 +1,15 @@
+{
+  "version": "2025-10-21",
+  "songs": [
+    {
+      "filename": "Liminal.zip",
+      "url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/songs/Liminal.zip",
+      "sha256": "a8b3fbb27d..." 
+    },
+    {
+      "filename": "Echoes.zip",
+      "url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/songs/Echoes.zip",
+      "sha256": "f3c47a00af..."
+    }
+  ]
+}
